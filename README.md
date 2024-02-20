@@ -1,8 +1,10 @@
 ### Hi there 👋
-<div style="display:flex;">
-  <div>Col 1</div>
-  <div>Col 2</div>
-</div>
+<table>
+  <tr>
+      <td>Col 1</td>
+      <td>Col 2</td>
+  </tr>
+</table>
 <!--
 **DasinDaskrau/DasinDaskrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
