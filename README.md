@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div class="d-flex border border-primary">
+<div style="display:flex;">
   <div>Col 1</div>
   <div>Col 2</div>
 </div>
